@@ -1,7 +1,6 @@
 <h1 align="center">Ola 👋, sou o Diego Oliveira</h1>
 <h3 align="center">Portfólio: https://diegodev-diego0liver.vercel.app/</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diego0liver" alt="diego0liver" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
