@@ -1,4 +1,5 @@
 <h1 align="center">Ola 👋, sou o Diego Oliveira</h1>
+<h3>👨‍🎓 Cursando analise e desenvolvimento de sistemas</h3>
  <a align="center" href="https://diegodev.vercel.app/" target="_black"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
  </img>
  </a>
